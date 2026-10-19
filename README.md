@@ -9,8 +9,8 @@ Hi, I'm Mackay. This is a personal practice project I built to learn how data mo
 
 ---
 
-## 🚀 Skills I Am Actively Mastering
-To build on my analytical university background and my current systems support experience, I am using this repository as a sandbox to learn and master these foundational skills:
+## Skills I Am Actively Mastering
+To build on my university background and my current systems support experience, I am using this repository as a sandbox to learn and master these foundational skills:
 * **SQL & Relational Database Design:** Practicing relational schemas by writing SQL queries to transform staging data into a **Star Schema** layout (structuring data into `fact_invoices`, `dim_customers`, and `dim_plans` tables).
 * **Linux & CLI Environments:** Moving away from Windows interfaces to run and manage Python script automation jobs directly through standard command-line environments.
 * **Pipeline Automation:** Writing master orchestration routines that link single scripts together so data loads smoothly end-to-end without manual adjustments.
